@@ -11,7 +11,6 @@ export default function App() {
         <Navbar />
         <section>
           <div>
-            <h1>Biz bilan har lahza —unumli</h1>
             <p>
               Tingla ilovasi orqali nodir asarlarning audio shaklida
               tinlashingiz va elektron tarzda mutolaa qilishingiz mumkin.
