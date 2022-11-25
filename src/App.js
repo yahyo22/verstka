@@ -45,6 +45,7 @@ const Styled = styled.div`
         letter-spacing: -0.02em;
         text-align: left;
         margin-bottom: 24px;
+        color:black;
       }
       p {
         font-style: normal;
